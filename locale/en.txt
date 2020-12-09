@@ -1,0 +1,17 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 2649 Polk Street #6
+
+## Media
+
+### Title
+panorama_4EB80813_44F1_EC95_418D_05851DFA335A.label = Bedroom
+panorama_4EB83212_44F1_DC97_41B5_BCA22FC7D1B6.label = Kitchen & Dining Room
+panorama_4EB86D02_44F1_E477_41C2_016C0BE341D1.label = Bathroom
+panorama_4EBEE786_44EE_247F_4197_4138364AF72A.label = Living Room
+panorama_4F1CACEB_44EE_25B5_41C0_18E24B876FA8.label = Entrance
